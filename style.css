@@ -1,0 +1,319 @@
+.general {
+    display: flex;
+
+    }
+.logo { position: absolute;
+width: 500px;
+height: 58px;
+left: 245px;
+top: 101px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+
+color: #F09595;
+}
+ 
+.image {
+    position: absolute;
+width: 690px;
+height: 272px;
+left: 517px;
+top: 939px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+}
+
+.zxc {
+position: absolute;
+width: 620px;
+height: 272px;
+left: 717px;
+top: 939px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+
+ .zxctek {
+    position: absolute;
+width: 184px;
+height: 60px;
+left: 713px;
+top: 1206px;
+
+background: #C4C4C4;
+ }
+
+ h1 {
+    position: absolute;
+width: 627px;
+height: 58px;
+left: 713px;
+top: 826px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+ }
+
+ h2 {
+    position: absolute;
+    width: 214px;
+    height: 44px;
+    left: 720px;
+    top: 895px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+ }
+ .mad {
+    position: absolute;
+width: 627px;
+height: 58px;
+left: 218px;
+top: 326px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+ }
+
+ .connect {
+    position: absolute;
+width: 508px;
+height: 39px;
+left: 245px;
+top: 416px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+
+ }
+ .logo {
+    
+    
+    position: absolute;
+width: 145px;
+height: 136px;
+left: 218px;
+top: 63px;
+
+background: #C4C4C4;
+border: 2px solid var(--main-color);
+    border-radius: 50%;
+    padding: 20px;
+    background-origin:content-box;
+
+ }
+ .home {
+    position: absolute;
+width: 67px;
+height: 29px;
+left: 609px;
+top: 108px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+ }
+
+ .about {
+    position: absolute;
+    width: 113px;
+    height: 29px;
+    left: 758px;
+    top: 108px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+ }
+ .home {
+    position: absolute;
+width: 146px;
+height: 60px;
+left: 566px;
+top: 91px;
+
+background: #F09595;
+ }
+ .about {
+    position: absolute;
+background: #C4C4C4;
+ }
+
+.ul {
+    list-style: none;
+}
+
+
+
+
+.feat { 
+    position: absolute;
+width: 113px;
+height: 29px;
+left: 917px;
+top: 108px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+}
+
+
+.feat {
+    position: absolute;
+
+
+background: #C4C4C4;
+}
+
+.featP {
+    position: absolute;
+    width: 113px;
+    height: 29px;
+    left: 1076px;
+    top: 103px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+    
+}
+.featP {
+    position: absolute;
+
+background: #C4C4C4;
+}
+
+ul { list-style: none; }
+
+
+.tochka1 {
+    position: absolute;
+width: 20px;
+height: 20px;
+left: 643px;
+top: 718px;
+
+background: #F09595;
+border: 2px solid var(--main-color);
+    border-radius: 50%;
+    padding: 6px;
+    background-origin:content-box;
+
+}
+
+.tochka2 {
+    position: absolute;
+width: 20px;
+height: 20px;
+left: 688px;
+top: 718px;
+
+background: #C4C4C4;
+border: 2px solid var(--main-color);
+    border-radius: 50%;
+    padding: 6px;
+    background-origin:content-box;
+
+}
+.tochka3 {
+    position: absolute;
+width: 20px;
+height: 20px;
+left: 733px;
+top: 718px;
+
+background: #C4C4C4;
+border: 2px solid var(--main-color);
+    border-radius: 50%;
+    padding: 6px;
+    background-origin:content-box;
+
+}
+
+.tochka4 {
+    position: absolute;
+width: 20px;
+height: 20px;
+left: 778px;
+top: 718px;
+
+background: #C4C4C4;
+border: 2px solid var(--main-color);
+    border-radius: 50%;
+    padding: 6px;
+    background-origin:content-box;
+
+}
